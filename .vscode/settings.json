@@ -1,0 +1,8 @@
+{
+  "emulator.emulatorPathWindows": "C:\\Users\\hesa\\AppData\\Local\\Android\\Sdk\\emulator",
+  "emulator.androidColdBoot": true,
+  "dart.flutterSdkPath": "D:\\apps\\flutter",
+  "dart.sdkPath": "D:\\apps\\flutter\\bin\\cache\\dart-sdk",
+  "editor.formatOnSave": true,
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
